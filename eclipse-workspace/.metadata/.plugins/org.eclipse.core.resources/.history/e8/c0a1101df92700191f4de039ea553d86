@@ -1,0 +1,26 @@
+package input;
+
+import java.util.Scanner; 
+
+public class Practiceinput {
+
+	public static void main(String[] args) {
+	   System.out.println("What is your age ");
+	   Scanner sc = new Scanner(System.in); 
+	   int age = sc.nextInt();  
+	   System.out.println("I am  " +age); 
+	   sc.close(); 
+	   
+	   System.out.println("What is your height"); 
+	   Scanner sc = new Scanner(System.in); 
+	   String height = sc.nextLine();
+	   System.out.println("My height " + height);
+	   sc.close();
+	   
+	   
+	}
+	
+	
+
+	 
+}

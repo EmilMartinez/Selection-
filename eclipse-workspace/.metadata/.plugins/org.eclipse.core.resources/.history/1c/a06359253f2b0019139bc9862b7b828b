@@ -1,0 +1,28 @@
+
+public class Laptop {
+public String laptopSeries; 
+public float laptopSize;
+public int laptopWeight; 
+public char laptopSign; 
+
+public Laptop (String laptopSer) {
+	this.laptopSeries = laptopSer;
+	System.out.println(laptopSeries);
+}
+public Laptop (int laweight) {
+	this.laptopWeight = laweight;
+	System.out.println(laptopWeight);
+	
+}
+
+public Laptop (char lasign) {
+	this.laptopSign = lasign;
+	System.out.println(laptopSign);
+}
+
+public Laptop (float lasize) {
+	this.laptopSize = lasize;
+	System.out.println(laptopSize);
+}
+}
+ 

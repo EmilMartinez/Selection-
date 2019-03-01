@@ -1,0 +1,26 @@
+package Mylife;
+
+public class Mylife
+{
+
+   String name;
+   String lastname;
+   float weight;
+   char symbol; 
+   int age;
+   
+   public  Mylife () {}
+   
+   public Mylife(String name) {
+	   this.name = name;
+	   System.out.println(name);
+   }
+   
+   public Mylife (String lastname, String name  ) {
+	   this.lastname = lastname;
+	   System.out.println("lastname");
+   }
+   
+}
+
+   

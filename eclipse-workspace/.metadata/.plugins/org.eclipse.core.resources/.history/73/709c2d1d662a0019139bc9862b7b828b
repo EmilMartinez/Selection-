@@ -1,0 +1,31 @@
+package Mylife;
+
+public class Emilslife {
+
+ public String school;
+ public int age;
+ public double height;
+ public boolean fast;
+ //default constructor
+ public KnowMe() {} 
+ 
+ 
+ public Knowme (String school) {
+    this.school = school; 
+    
+	 
+ }
+ 
+ 
+ 
+
+
+
+
+}
+
+
+
+
+
+}

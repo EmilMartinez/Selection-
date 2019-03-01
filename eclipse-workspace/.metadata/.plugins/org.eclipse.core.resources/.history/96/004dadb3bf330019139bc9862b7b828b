@@ -1,0 +1,13 @@
+package ReviewofProject23456;
+
+public interface Computers {
+
+public void Screen();
+public void KeyPad();
+public void RamMemory();
+public void HardDrive();
+public void TouchPad();
+public void Weight();
+
+
+}

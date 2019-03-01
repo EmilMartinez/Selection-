@@ -1,0 +1,25 @@
+package Encapsulation;
+
+public class Practicegetandset {
+
+private int stID;
+private String stName;
+private String DOB;
+
+public int getstID() {
+	return stID;
+	
+public void getstI(int stI) { 
+	this.stID = stI;
+}
+}
+
+
+
+
+
+
+
+
+
+}

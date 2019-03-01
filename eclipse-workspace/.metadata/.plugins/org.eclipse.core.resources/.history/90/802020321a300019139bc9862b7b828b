@@ -1,0 +1,30 @@
+package ReviewofProject23456;
+
+public class MathMethod {
+
+public void Mathcalutions() {};
+
+public int Mathcalutions(int e, int t, int m) {
+int total = e*t/m;
+return total;
+}
+
+public int Mathcalutions(int i, int e,) {
+int total = i*e;
+return total;
+}
+
+public int Mathcalutions(int k, int p) {
+int y = k/p;
+return y;
+}
+
+public int Mathcalutions(int e, int r, int s,) {
+int total = e*t/m;
+System.out.print(total);
+return total;
+
+
+}
+
+

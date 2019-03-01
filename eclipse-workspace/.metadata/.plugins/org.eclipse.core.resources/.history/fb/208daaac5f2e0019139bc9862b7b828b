@@ -1,0 +1,19 @@
+package Abstraction;
+
+public class TestCar {
+
+	public static void main(String[] args) {
+     Car corolla = new Toyota(); 
+     corolla.shape();
+     corolla.wheels();
+     corolla.stop();
+     
+     Toyota lexus = new Toyota(); 
+     lexus.color(); 
+     
+     MotorVehicle mv = new Toyota();
+     mv.engine();
+     
+	}
+
+}

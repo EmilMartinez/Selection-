@@ -1,0 +1,21 @@
+package Mylife;
+
+public class Runmylife2 {
+
+	public static void main(String[] args) {
+	  MyLife2 better = new MyLife2 ();
+	  better.showavenue(37th avenue);
+	  better.weight()
+	  
+	  
+	  
+	 
+	  
+	  
+	  
+			  
+	  
+
+	}
+
+}

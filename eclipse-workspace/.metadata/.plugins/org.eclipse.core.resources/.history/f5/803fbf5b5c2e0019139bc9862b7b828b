@@ -1,0 +1,21 @@
+package Abstraction;
+
+public abstract class MotorVehicle extends Car {
+// unless you put abstract it will think you will implement 
+	
+	
+	public void engine() {
+	System.out.println("let's have an engine to start the car");
+	}
+	
+	public abstract void autoStart();
+	
+	public void floatingShape() {
+		System.out.println("vehicle that can float in water");
+		
+	public void sail() {
+	System.out.println("let's have sail features to move the boat");
+	
+	}
+
+}

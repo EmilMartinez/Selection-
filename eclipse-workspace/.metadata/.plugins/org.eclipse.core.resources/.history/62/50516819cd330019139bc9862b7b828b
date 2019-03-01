@@ -1,0 +1,41 @@
+package ReviewofProject23456;
+
+public class Encapsulation1 {
+
+private String CityName;
+private int NumberOfBuildings;
+private int NumberOfPeople;
+
+
+public Encapsulation1(String cityName, int NumberOfBuildings, int NumberofPeople ) {
+	this.CityName = cityName;
+	this.NumberOfBuildings = NumberOfBuildings;
+	this.NumberOfPeople = NumberofPeople;
+	System.out.print(NumberOfBuildings);
+    System.out.print(CityName);
+    System.out.println(NumberOfPeople);
+
+}
+
+public String getCityName() {
+return CityName;
+}
+
+public int getNumberOfBuildings() {
+	return NumberOfBuildings;
+}
+
+public int getNumberOfPeople() {
+return NumberOfPeople;
+}
+
+public void setCityName(String CityName) {
+this.CityName = CityName;
+}
+	
+	
+	
+	
+	
+	
+}

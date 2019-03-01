@@ -1,0 +1,20 @@
+package input;
+
+import java.util.Scanner;
+import java.util.scanner; 
+
+public class InputFromUser {
+
+	public static void main(String[] args) {
+		System.out.println("please enter a number: ");
+		Scanner sc = new Scanner(System.in);
+		int input1 = sc.inputInt();
+		int input2 = sc.inputInt();
+		sc.close();
+		int results = input1 + input2;
+		System.out.println("Total addition of two inputs: " +results);
+		
+	}
+	
+
+}

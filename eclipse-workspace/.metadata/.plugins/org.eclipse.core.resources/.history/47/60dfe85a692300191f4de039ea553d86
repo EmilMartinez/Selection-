@@ -1,0 +1,20 @@
+package variables;
+
+public class Var {
+	int a = 2;
+	int b= 3;
+	int c = a+b;
+	//whole numbers 
+	byte num1 = 1;
+	short num2 = 12345;
+ int num = 10; 
+ long num3 = 1234556789L; 
+ // decimals 
+ float dec1 = 12.747565858494747857568598589
+ double dec = 10.89282382829829828
+// characters
+ char charactar = '@';
+ String sentence = "happy birthday"; 
+  //boolean 
+ boolean choice = false; 
+}

@@ -1,0 +1,33 @@
+package ReviewofProject23456;
+
+public class Encapsulation {
+
+private static final int  = 0;
+private String CityName;
+private int NumberOfBuildings;
+private int numberOfPeople;
+
+
+public Encapsulation(int numberOfP,String cityName, int numberOfBuilding) {
+	this.CityName = cityName;
+	this.numberOfPeople = numberOfP;
+	this.NumberOfBuildings = numberOfBuilding;
+}
+
+public String getCityName() {
+return CityName;
+}
+
+public void getNumberOfBuildings() {
+	return NumberOfBuildings;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,26 @@
+package Mylife;
+
+public class Runmylife {
+
+	public static void main(String[] args) {
+		Emillife21 era = new Emillife21 ();
+		era.age = (24);
+		era.name = ("Emil");
+		era.lastname = ("Emil, Martinez");
+		era.weight = (200);
+	    }
+		
+}	
+		
+		
+		
+		
+	    
+		
+		
+	
+	
+	
+	
+
+

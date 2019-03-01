@@ -1,0 +1,34 @@
+package ReviewofProject23456;
+
+public class TheComputerIneed extends ComputerIwant implements Computers{
+
+	public abstract class ComputerIwant implements Computers {
+
+		public void KeyBroad() {
+			System.out.println("The keybroad is soft and easy to write with.");
+		}
+		
+		public void ScreenSize() {
+			System.out.println("The screen size is 15' wide.");
+		}
+		
+		public void Ram() {
+			System.out.println("The Ram must be at least 16gb.");
+		}
+		
+		public void HardDrive() {
+			System.out.println("The Hard Drive must have 256gb memory.");
+		}
+		public void Weight() {
+			System.out.println("The weight of the Mac book should be 3lbs.");
+		}
+		public void Processor() {
+			System.out.println("The processor must be a A8 processor. ");
+		}
+	}
+	
+	
+	
+	
+	
+

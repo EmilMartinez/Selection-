@@ -1,0 +1,14 @@
+package Abstraction;
+
+public interface Car {
+// able to implement but not declare
+	
+	
+  public void shape();
+  public void wheels();
+  public void start();
+  public void stop();
+	  
+	  
+  }
+	}

@@ -1,0 +1,12 @@
+package Abstraction;
+
+public class MotorVehicle {
+// unless you put abstract it will think you will implement 
+	
+	
+	public void engine() {
+	System.out.println("let's have an engine to start the car");
+	}
+	
+	public abstract void autoStart
+}

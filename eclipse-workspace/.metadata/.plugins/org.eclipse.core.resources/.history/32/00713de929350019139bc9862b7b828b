@@ -1,0 +1,21 @@
+package Abstraction;
+
+public class TestCar {
+
+	public static void main(String[] args) {
+     Toyota victory = new Toyota() 
+     victory.CarName("Toyota");
+     victory.HeadLights();
+     victory.Seats();
+     victory.toString();
+     victory.SteeringWheel();
+     victory.Wheels();
+
+     Car bmw = new Toyota()
+     bmw.     
+     
+     
+    
+    
+    
+	}

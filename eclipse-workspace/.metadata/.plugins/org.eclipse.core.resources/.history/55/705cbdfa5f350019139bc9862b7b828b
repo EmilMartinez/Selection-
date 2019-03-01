@@ -1,0 +1,38 @@
+package ReviewofProject23456;
+import java.util.Scanner;
+
+public class ifelse {
+	public static void main(String[] args) {
+	System.out.println("What is my new career?");	
+	Scanner sc = new Scanner(System.in);
+	String input1 = sc.next();
+	String input2 = sc.next();
+	sc.close();
+	String total = input1 + input2;
+	System.out.println("I will work as:" +total);
+	
+}
+	
+	public static void main(String[] args) {
+	System.out.println("Where do you expect to work?");
+	Scanner sc = new Scanner(System.in);
+	String input1 = sc.next();
+	String input2 = sc.next();
+	String input3 = sc.next();
+	sc.close();
+	String total = input1 + input2 + input3;
+	System.out.println("In the states of" +total );
+	}
+    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

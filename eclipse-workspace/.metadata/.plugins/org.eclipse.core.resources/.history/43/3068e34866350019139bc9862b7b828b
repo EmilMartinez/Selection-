@@ -1,0 +1,20 @@
+package ReviewofProject23456;
+
+import java.util.Scanner;
+
+public class ScannerPractice {
+
+	public static void main(String[] args) {
+			System.out.println("How much do you expect your contact to be worth as a QA?");
+			Scanner sc = new Scanner(System.in);
+			int input1 = sc.nextInt();
+			String input2 = sc.next();
+			String total = input1 + input2;
+			sc.close();
+			System.out.println("I will get a contract for:" +total);
+			
+			
+		
+	}
+}
+

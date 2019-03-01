@@ -1,0 +1,10 @@
+package input;
+
+import java.util.Scanner; 
+
+public class Practiceinput {
+
+	public static void main(String[] args) {
+   System.out.println("What is your favorite city?");
+	   
+	   

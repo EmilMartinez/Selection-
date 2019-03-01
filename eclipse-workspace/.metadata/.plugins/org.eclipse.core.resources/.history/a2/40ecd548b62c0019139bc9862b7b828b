@@ -1,0 +1,10 @@
+package Abstraction;
+
+public abstract class Skyscrapper {
+
+	public void shape() {
+	System.out.println("");	
+		
+	}
+
+}

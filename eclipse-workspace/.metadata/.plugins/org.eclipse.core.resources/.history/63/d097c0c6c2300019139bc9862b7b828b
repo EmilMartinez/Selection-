@@ -1,0 +1,28 @@
+package ReviewofProject23456;
+
+public class MathMethod {
+
+public int MathCalutions() {};
+
+public int MathCalutions (int w, int y) {
+	int total = w*y;
+	return total;
+}
+
+public int MathCalutions(int w, int h, int y) {
+	int total = w/h;
+	return total;
+}
+
+public int MathCalutions(int w, int b, int v, int y) {
+int total = w*b*v*y;
+return total;
+}
+ 
+public int MathCalutions(int e) {
+	int total = e*12;
+return total;
+}
+}
+
+

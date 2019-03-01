@@ -1,0 +1,13 @@
+package Mylife;
+
+public class Runmylife2 {
+
+	public static void main(String[] args) {
+	  Emillife better = new Emillife();
+	  better.showweight(200);
+	  better.showstreet();
+	  
+	  
+	  }
+
+}

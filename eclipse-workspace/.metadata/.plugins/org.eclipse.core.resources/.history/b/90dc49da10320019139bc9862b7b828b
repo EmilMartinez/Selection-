@@ -1,0 +1,28 @@
+package ReviewofProject23456;
+
+public class TestComputer {
+
+	public static void main(String[] args) {
+	TheComputerIneed era = new TheComputerIneed();
+	era.ramMemoryCapcity();
+	era.mouseType();
+	era.computerColor();
+	 
+	ComputerIwant record = new TheComputerIneed();
+	record.ramMemoryCapcity();
+	record.screenSize();
+	
+	
+	Computers money = new TheComputerIneed();
+	money.screenSize();
+	money.screenSize();
+	money.keyBroad();
+	
+	
+	
+
+	}
+
+	}
+
+

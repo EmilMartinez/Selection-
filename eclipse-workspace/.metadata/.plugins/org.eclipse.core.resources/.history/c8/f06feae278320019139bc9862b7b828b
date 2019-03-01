@@ -1,0 +1,7 @@
+package ReviewofProject23456;
+
+public abstract class ComputerIwant implements Computers {
+
+public void Screen(String computerScreen) {
+	System.out.println("The computer screen is 15' wide.");
+}

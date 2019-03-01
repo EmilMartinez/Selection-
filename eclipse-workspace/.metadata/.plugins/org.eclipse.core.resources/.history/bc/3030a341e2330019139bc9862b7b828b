@@ -1,0 +1,16 @@
+package ReviewofProject23456;
+
+public class TestEncapsulation {
+
+	public static void main(String[] args) {
+    Encapsulation vision = new Encapsulation();
+    vision.setCityName("New York");
+    vision.setNumberOfBuildings(350);
+    vision.setNumberOfPeople(12.5333);
+    
+    
+    
+    
+	}
+
+}

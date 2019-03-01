@@ -1,0 +1,41 @@
+
+public class Dailylife {
+
+float shoeSize;
+int timeIWorkOut;
+String myBusinessName;
+char mySexSymbol;
+double myWeight;
+
+
+
+public Dailylife (float showSi, int timeIWork, String myBusinessN, char mySexS, double myWei) {
+this.shoeSize = showSi;
+this.timeIWorkOut = timeIWork;
+this.myBusinessName = myBusinessN;
+this.mySexSymbol = mySexS;
+this.myWeight = myWei;
+
+
+}
+
+}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

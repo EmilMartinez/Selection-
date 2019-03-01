@@ -1,0 +1,11 @@
+package Abstraction;
+
+public interface Buildings {
+
+public void shape();
+public void windows();
+public void type(); 
+public void materials();
+
+
+}

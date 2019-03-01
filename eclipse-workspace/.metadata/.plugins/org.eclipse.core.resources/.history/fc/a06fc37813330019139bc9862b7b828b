@@ -1,0 +1,10 @@
+package ds;
+import java.util.ArrayList;
+import java.util.List;
+public class UseArraylist {
+
+	public static void main(String[] args) {
+      List<Integer> list = new Arraylist<Integer>();// created an object to call upon the intriguer. 
+	}
+
+}

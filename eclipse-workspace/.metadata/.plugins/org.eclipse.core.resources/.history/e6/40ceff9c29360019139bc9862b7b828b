@@ -1,0 +1,45 @@
+package ReviewofProject23456;
+
+public class Ploymorhism {
+	public int Mathcodes(int w, int r) {
+		int total = w*r;
+		return total;
+	}
+
+	public int Mathcodes(int w, int r, int s) {
+		int total = w*r+s;
+		return total;
+	}
+
+	public int Mathcodes(int w, int r, int s, int c) {
+		int total = w*r+c;
+		return total;
+	}
+
+	public int Mathcodes(int w, int r, int s, int c, int b) {
+		int total = w*r+c*b;
+		return total;
+	}
+
+	public int Mathcodes(int w) {
+		int total = w;
+		System.out.println("The outcome is:" +total);
+		return total;
+
+	}
+
+	public int Mathcodes(int w, int r, int s, int b, int y, int c) {
+		int total = w*r+c*b*s*y;
+		return total;
+	}
+	public int Mathcodes(int w, int r, int s, int c, int b, int y, int o) {
+			int total = w*r+c/o*s*b*y;
+			System.out.println("The outcome is:" +total);
+			return total;
+	}
+
+	public int Mathcodes(int w, int r, int s, int c, int b, int y, int o, int m) {
+		int total = w*r+c/o*s*b*y+m;
+		return total;
+	}
+}

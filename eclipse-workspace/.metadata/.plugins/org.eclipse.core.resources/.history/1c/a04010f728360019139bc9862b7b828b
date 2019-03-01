@@ -1,0 +1,32 @@
+package ReviewofProject23456;
+
+public class Ploymorh {
+
+public int Mathcodes(int w, int r) {
+	int total = w*r;
+	System.out.println("The outcome is:" +total);
+	return total;
+}
+
+public int Mathcodes(int w, int r, int s) {
+	int total = w*r+s;
+	System.out.println("The outcome is:" +total);
+	return total;
+}
+
+public int Mathcodes(int w,, int s, int v) {
+	int total = w*s*v;
+	System.out.println("The outcome is:" +total);
+	return total;
+}
+
+
+
+
+
+
+
+
+
+
+}

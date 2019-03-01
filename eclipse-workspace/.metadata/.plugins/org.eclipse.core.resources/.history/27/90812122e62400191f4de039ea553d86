@@ -1,0 +1,34 @@
+
+public class Emil {
+	
+	public int multiplication (int e, int v) {
+		int s = e*v; 
+		System.out.println(" the total is:" +s);
+		return s;
+	}
+	
+	  public int division (int w, int t) {
+		  int a = w/t; 
+		  System.out.println("the total is:" +a); 
+		  return a;
+	  }
+	  
+	  public int subtraction (int t, int s) {
+		  int z = t - s;
+		  System.out.println("the total is:" +z); 
+		  return z;
+	  }
+	  
+	   public int addition (int m, int f) {
+		   int e = m + f; 
+		   System.out.println("the total is:" + e); 
+		   return e; 
+	   } 
+		   
+	  
+	
+				
+	}
+	
+
+}

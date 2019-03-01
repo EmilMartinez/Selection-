@@ -1,0 +1,15 @@
+package ReviewofProject23456;
+
+public class MethodsPractice {
+
+	
+public int Practice(int s, int e) {
+	int total = s*e;
+	System.out.println("The total is:" +total);
+	return total;
+	
+	
+public String Practice(String deliveries);
+ = deliveries;
+}
+}

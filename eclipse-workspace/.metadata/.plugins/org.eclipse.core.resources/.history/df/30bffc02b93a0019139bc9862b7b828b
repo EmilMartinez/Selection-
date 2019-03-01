@@ -1,0 +1,16 @@
+package ReviewofProject23456;
+
+import java.util.Scanner;
+
+public class Scanner123 {
+
+	public static void main(String[] args) {
+System.out.println("How is your state of mind?");
+Scanner sc = new Scanner(System.in);
+String amazing = sc.nextLine();
+System.out.println("I feel:" +amazing);
+sc.close();
+
+
+}
+}

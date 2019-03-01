@@ -1,0 +1,25 @@
+package Mylife;
+
+public class Emillife {
+
+   String name;
+   String lastname;
+   float weight;
+   char symbol; 
+   int age;
+   
+   public Emillife() {}
+   
+   public Emillife(String name) {
+	   this.name = name;
+	   System.out.println("name");
+   }
+   
+   public Emillife(String lastname) {
+	   this.lastname = lastname;
+	   System.out.println("lastname");
+   }
+   
+
+}
+   

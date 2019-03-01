@@ -1,0 +1,14 @@
+package Mylife;
+
+public class TestVictory {
+
+	public static void main(String[] args) {
+		Victory vt = new Victory();
+		vt.SmartOne('w');
+		vt.SmartOne("New York");
+		
+		
+
+	}
+
+}

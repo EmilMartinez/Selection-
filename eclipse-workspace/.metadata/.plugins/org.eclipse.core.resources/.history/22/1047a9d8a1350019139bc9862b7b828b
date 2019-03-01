@@ -1,0 +1,25 @@
+package ReviewofProject23456;
+
+public class IfElseToo {
+
+	public static void main(String[] args) {
+		long num1= 14543;
+		long num2=23456;
+
+if ((num1>num2) || (num2>num1)) {
+System.out.println(num1+"Is greater than"+num2);
+	}else if (num2==num1); {
+		System.out.println(num2+"Is bigger than" +num1);
+	}
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}		
+		

@@ -1,0 +1,36 @@
+package ds;
+import java.util.ArrayList;
+import java.util.List;
+public class UseArraylist {
+
+      List<Integer> list = new ArrayList<Integer>();
+      list.add(2);
+      list.add(24);
+      list.add(87);
+      list.add(65);
+      list.add(45);
+      list.add(23);
+      list.add(53);
+      list.add(78);
+      
+      System.out.println(list.get(5));
+	}
+      
+      
+   
+      
+      
+      
+      
+      
+      
+      
+	}
+      // created an object to call upon the intriguer. 
+                                                   // the <The content> in there tells the Array list what the subject will be of.
+	  
+	   
+	
+	
+
+}

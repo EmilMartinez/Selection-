@@ -1,0 +1,17 @@
+import Mylife.Victory;
+
+public class Hobbies {
+
+	public static void main(String[] args) {
+	  Victory Era = new Victory ();
+	  Era.city ("New York");
+	  
+	  
+	  
+	  
+	  
+		
+
+	}
+
+}

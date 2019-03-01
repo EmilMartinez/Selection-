@@ -1,0 +1,21 @@
+package Operator;
+
+import java.util.Scanner; 
+
+public class Usearray {
+ 
+	public static void main(String[] args) {
+		System.out.println("Please enter some numbers: ");
+		Scanner sc = new Scanner(System.in);
+		int [] numbers = new int [10];
+		for(int i=0; i<numbers.lenth; i++) {
+		numbers [i];
+		}
+		
+		System.out.println(numbers[1]);
+	}
+		sc.close(); 
+
+	}
+
+}

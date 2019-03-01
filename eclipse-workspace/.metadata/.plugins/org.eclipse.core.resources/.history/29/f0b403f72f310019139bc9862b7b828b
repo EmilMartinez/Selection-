@@ -1,0 +1,15 @@
+package ReviewofProject23456;
+
+public class Operatoruse {
+
+	public static void main(String[] args) {
+	int num1 = 300; 
+	int num2 = 250; 
+	if (num1 > num2); {
+	System.out.println(num1 + "is greater" +num2);
+	}
+	
+	}
+}
+
+

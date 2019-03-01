@@ -1,0 +1,27 @@
+package Mylife;
+
+public class Runmylife {
+
+	public static void main(String[] args) {
+		Emillife21 people = new Emillife21 ();
+		people.age = (24);
+		people.name = ("Emil");
+		people.lastname = ("Emil, Martinez");
+		people.weight = (200);
+	    people.hands = (2);
+	    }
+		
+}	
+		
+		
+		
+		
+	    
+		
+		
+	
+	
+	
+	
+
+

@@ -1,0 +1,29 @@
+package Mylife;
+
+public class Emillife {
+	
+	float height; 
+	float weight; 
+	String city;
+	String name; 
+	String avenue;
+    int age; 
+    
+    public Emillife(int age) {
+    	this.age = age;
+    	System.out.println("This is my age" +age);
+    }
+    	
+    public Emillife(String city) {
+    	this.city = city;
+    	System.out.println("I live in New York");
+    }
+    	
+    public Emillife(String avenue) {
+    	this.avenue = avenue;
+    	System.out.println("37th Avenue");
+    }
+    
+    }
+    
+    }

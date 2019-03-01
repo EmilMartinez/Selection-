@@ -1,0 +1,15 @@
+package classnmethodnobjects;
+
+public class house {
+   //method1 non return method
+   public void methodname () {
+   System.out.println ("this my method"); 
+   }
+   
+  //method 1 return method 
+	public int add(int a, int b) {
+		int total = a+b; 
+		int c = a+b;
+		return total; 
+	}
+}

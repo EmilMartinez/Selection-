@@ -1,0 +1,11 @@
+package ReviewofProject23456;
+
+public interface Computers {
+
+public void shape();
+public void keyBroad();
+public void screenSize(); 
+public void computerBrand(); 
+public void mouseType();
+
+}

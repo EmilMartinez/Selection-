@@ -1,0 +1,23 @@
+package AbstractionPractice;
+
+public abstract class Buildingthebuilding implements Building {
+
+public void Windows() {
+System.out.println("The windows must be 12ft high");
+}
+
+public void Elevators() {
+System.out.println("There must be six elevators in the building.");
+}
+
+public void Ceilings() {
+System.out.println("Every floor must be at least 12ft high");
+}
+
+public void Walls() {
+System.out.println("The walls in every floor must be all white ");
+}
+
+public void Floors() {
+}
+}

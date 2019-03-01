@@ -1,0 +1,16 @@
+package ReviewofProject23456;
+
+
+public class IfElsePractice {     
+	public static void main(String[] args) {
+	      int num1 = 300;
+          int num2 = 400;
+if (num1>num2) {
+	System.out.println("Is greater than"+num2);
+} if (num2<num1) {
+	System.out.println("Is better than" +num1);
+}
+}
+}
+	
+

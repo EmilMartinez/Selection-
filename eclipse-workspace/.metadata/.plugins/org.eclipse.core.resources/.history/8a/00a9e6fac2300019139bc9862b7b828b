@@ -1,0 +1,51 @@
+package ReviewofProject23456;
+
+public class NestedWorks {
+
+	
+public void ClassRoom() {
+	System.out.println("The class room has 50 students.");
+}
+
+public String Teacher(String Attributes) {
+String sheIs = Attributes;
+	System.out.println("Ms.Clark is well versed.");
+return sheIs;
+}
+
+public String Subjects(String s) {
+String total = s;
+	System.out.println("Ms.clark teaches us math, english and poetry.");
+return total;
+}
+
+public String learningMaterials(String laptop) {
+String learning = laptop;
+	System.out.println("We are an all digtal class.");
+return learning;
+}
+
+public int Homework(int h) {
+int total = h*12;
+System.out.println("We get: '+total' everyweek");
+return total;
+}
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

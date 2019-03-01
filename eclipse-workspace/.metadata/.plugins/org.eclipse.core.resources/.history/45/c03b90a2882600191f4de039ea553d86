@@ -1,0 +1,9 @@
+package Mylife;
+
+public class Runmylife {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

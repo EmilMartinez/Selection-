@@ -1,0 +1,9 @@
+package Abstraction;
+
+public class Skyscrapper {
+
+	public static void main(String[] args) {
+
+	}
+
+}

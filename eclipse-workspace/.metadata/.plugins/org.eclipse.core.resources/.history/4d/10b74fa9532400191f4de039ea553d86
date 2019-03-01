@@ -1,0 +1,13 @@
+
+public class vehicletest {
+
+	public static void main(String[] args) {
+		vehicles luxury = new vehicles (); 
+		luxury.addition(350, 123); 
+		
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

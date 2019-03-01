@@ -1,0 +1,65 @@
+package Mylife;
+
+public class Victory {
+
+ public int age;
+ public double height;
+ public String city; 
+ public char team;
+ 
+ public int SmartOne (int age) {
+	this.age = age; 
+	System.out.println("results");
+	return age;
+ }
+ 
+  public String SmartOne (String city) {
+	this.city = city;
+	System.out.println("city");
+    return city;
+  }
+	 
+   public char SmartOne (char team) {
+	 this.team = team;
+	 System.out.println("My team is:" +team);
+     return team;	
+   }
+   
+   
+   public double SmartOne (double height) {
+     this.height = height;
+     System.out.println("height");
+     return height;
+   }
+}
+
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+ 
+	
+	
+	
+	
+	
+	
+	

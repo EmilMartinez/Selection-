@@ -1,0 +1,13 @@
+
+public class worktest {
+
+	public static void main(String[] args) {
+		workit wonderful = new workit (); 
+		wonderful.addition(20, 30); 
+		wonderful.exponents(30*5); 
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

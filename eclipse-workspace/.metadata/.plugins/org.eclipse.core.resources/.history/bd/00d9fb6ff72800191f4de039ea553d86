@@ -1,0 +1,33 @@
+package Mylife;
+
+public class MyLife2 {
+	
+	float height; 
+	float weight; 
+	String 
+	city, street; avenue 
+    int age; 
+    
+    public int showheight(int e, int m) {
+       this.height = e;
+       System.out.println("My height is :" +e + m);
+       return e + m;
+    }
+	
+    public String showcity; {
+    	System.out.println("I live in New York");
+    }
+
+    public String showstreet; {
+    	System.out.println("I live on 76thst");
+    }
+    
+    public String showavenue; {
+    	System.out.println("I live between 34th ave and Northern blvd");
+    }
+    
+    public int age (int v) {
+      System.out.println("I am "+ v);
+      return v;
+    }
+    }

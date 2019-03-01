@@ -1,0 +1,12 @@
+package classnmethodnobjects;
+
+public class HouseTest {
+
+	public static void main(String[] args) {
+	  House addition = new House();  	
+	  addition.methodname()
+
+	
+	
+	} 
+}

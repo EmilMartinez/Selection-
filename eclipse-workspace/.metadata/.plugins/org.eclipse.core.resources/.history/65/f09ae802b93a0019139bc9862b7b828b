@@ -1,0 +1,17 @@
+package ReviewofProject23456;
+
+
+public class NestworkTest {
+
+	public static void main(String[] args) {
+    NestedWork works = new NestedWork("Dubai");
+    NestedWork fun = new NestedWork(10);
+    NestedWork savings = new NestedWork(8.600);
+    NestedWork times = new NestedWork("No");
+    NestedWork money = new NestedWork.Purchases();
+  
+  
+    
+	}
+
+}

@@ -1,0 +1,31 @@
+package ReviewofProject23456;
+
+public class TheComputerIneed extends ComputerIwant implements Computers{
+
+	public void shape() {
+		System.out.println("The shape of the computer that I need has to be rectangular and thin.");
+	}
+	
+	public void keyBroad ()  {
+		System.out.println("The keybroad of the mac laptop that I want is softer then my window's pc.");
+		}
+	
+	public void laptopPrice() {
+		System.out.println("The price of the laptop I need is $1,600.");
+	}
+	
+	public void screenSize() {
+		System.out.println("The size of the screen size I want is 15' inches wide and 7' inches high.");
+	}
+	
+	public void whyINeedTheLaptop( ) {
+		System.out.println("The reason i need the laptop is because I will need it for when I become a QA.");
+	}
+	
+	
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,33 @@
+package Abstraction;
+
+public abstract class MotorVehicle implements Car {
+// unless you put abstract it will think you will implement 
+	
+	
+	public void shape() {
+	System.out.println("The shape of the car is the same as a BMW");
+	}
+
+	public int Size(int s) {
+		int total = s*36;
+	System.out.println("The size of the car is:" +total);
+	return total;
+	}
+	
+	public void wheels() {
+	System.out.println("The wheels are 36 inches all around");
+	}
+	
+	public void start() {
+	System.out.println("The car will start with a push of a button");
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

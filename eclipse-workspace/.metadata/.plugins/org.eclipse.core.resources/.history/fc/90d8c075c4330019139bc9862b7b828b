@@ -1,0 +1,23 @@
+package ReviewofProject23456;
+
+public class Encapsulation {
+
+private String cityName;
+private int numberOfBuildings;
+private int numberOfPeople;
+
+
+public Encapsulation(int numberOfP,String cityName, int numberOfBuilding) {
+	
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

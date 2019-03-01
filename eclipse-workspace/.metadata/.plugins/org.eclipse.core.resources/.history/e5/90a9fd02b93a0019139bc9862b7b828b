@@ -1,0 +1,34 @@
+package ReviewofProject23456;
+
+public class Son extends Father {
+	
+public String Height(String Height) {
+		String total = Height;
+			System.out.println("I am 6ft tall.");
+		return total;
+			}	
+
+public int Weight(int w) {
+ int total = w;
+ System.out.print(w);
+ return total;
+}
+
+public char Sex(char mysex) {
+char total = mysex;
+System.out.println("I am a:" +mysex);
+return total;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}

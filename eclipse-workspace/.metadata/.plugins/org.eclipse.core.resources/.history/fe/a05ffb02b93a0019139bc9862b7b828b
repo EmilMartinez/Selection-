@@ -1,0 +1,34 @@
+package ReviewofProject23456;
+
+public class Ploymorhism extends Ploymorh { // Don't forget extends
+	
+	
+	public int Newones(int s, int u) {
+		int total = s*u;
+	return total;
+	}
+
+	public int Newones(int s, int u, int y) {
+		int total = s*u+y;
+	return total;
+	}
+
+	public int Newones(int s, int u, int y, int t) {
+		int total = s*u+t*y;
+	return total;
+	}
+
+	public int Newones(int s, int u, int y, int t, int m) {
+		int total = s*u+t*y/m;
+	return total;
+	}
+
+	public int Newones(int s, int u, int y, int t, int m, int p) {
+		int total = s*u+t*y/m+p;
+	return total;
+	}
+
+	public int Newones(int s, int u, int y, int t, int m, int p, int r) {
+		int total = s*u+t*y/m+p-r;
+	return total;
+	}	

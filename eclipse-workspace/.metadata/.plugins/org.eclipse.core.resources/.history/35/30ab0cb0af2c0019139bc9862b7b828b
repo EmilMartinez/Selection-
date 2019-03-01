@@ -1,0 +1,36 @@
+package Abstraction;
+
+public class Toyota extends MotorVehicle implements Car {
+
+	@Override
+	public void shape() {
+   System.out.println("should not be more than 5 feet width");		
+	
+	}
+
+	@Override
+	public void wheels() {
+	System.out.println("runs on 4 wheels");
+	}
+		
+	
+
+	@Override
+	public void start() {
+	System.out.println("car should be able to run on pressing start button");
+		
+	}
+
+	@Override
+	public void stop() {
+	System.out.println("should have break system to stop the car");
+	}
+ 
+	public void color() {
+	System.out.println("we are offering different color of different models");
+	}
+	
+	public void autoStart() {
+		System.out.println("People in North America need auto start features");
+	}
+}

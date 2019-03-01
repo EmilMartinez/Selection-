@@ -1,0 +1,36 @@
+package ReviewofProject23456;
+
+public class Grandson extends Son {
+
+public double Myage;	
+	
+public String Height(String Height) {
+		String total = Height;
+			System.out.println("I am 6ft tall.");
+		return total;
+			}	  	
+
+public int Weight(int e) {
+	int total = e*12;
+	System.out.print(total);
+	return total;
+}
+
+public Grandson(double myA) {
+this.Myage = myA;
+System.out.print(myA);
+}
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

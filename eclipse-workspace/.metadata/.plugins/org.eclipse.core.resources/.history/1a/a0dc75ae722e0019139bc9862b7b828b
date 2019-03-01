@@ -1,0 +1,18 @@
+package ReviewofProject23456;
+
+public class TestreviewofProject23456 {
+
+public static void main(String[] args) {
+ReviewOFProject3 Evian = new ReviewOFProject3 (12);
+ReviewOFProject3 Wise = new ReviewOFProject3 ('Q');
+ReviewOFProject3 Vision = new ReviewOFProject3 (8999);
+ReviewOFProject3 Garfield = new ReviewOFProject3 ("I live in Queens");
+
+
+
+
+		
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package ReviewofProject23456;
+
+public class IfElsePractice {
+
+	public static void main(String[] args) { 
+	int num1 = 800;
+	int num2 = 600;
+	if((num1>num2) && (num1>600));{
+	System.out.println(num1+"Is greater than"+num2);
+	} if (num1==num2) {
+		System.out.println(num1+"Is equal to"+num2);
+	}else System.out.println(num1+"Not much bigger than"+num2);
+	}
+}
+
+	
+

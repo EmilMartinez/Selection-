@@ -1,0 +1,37 @@
+package Mylife;
+
+public class MyLife {
+
+	float weight;
+	float heights;
+	int age;
+	String name, city; 
+	
+	public void showname() {
+	  System.out.println("My name is Emil");
+	  
+	}
+	
+	public void showcity() {
+		System.out.println("I live in New York");
+	
+	}
+	
+	public float showheight(float d) {
+		this.heights = d; 
+		System.out.println("My height is " + d);
+	return d;
+	}
+	
+	 public int showage(int a) {
+		 this.age = a;
+		 System.out.println("I am:" + age);
+		 return age;
+	 }
+	
+}
+
+
+
+
+}

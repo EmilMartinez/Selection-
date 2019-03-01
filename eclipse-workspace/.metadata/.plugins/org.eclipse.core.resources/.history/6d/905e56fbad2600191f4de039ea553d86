@@ -1,0 +1,18 @@
+package Mylife;
+
+public class Runmylife {
+
+	public static void main(String[] args) {
+		MyLife story = new MyLife();
+		story.showheight(5,11);
+	    story.showage(27);
+	    story.showweight(200);
+	    
+		
+		
+	
+	}
+	
+	
+
+}

@@ -1,0 +1,10 @@
+package classnmethodnobjects;
+
+public class CalculationTest {
+public static void main(String[] args) {
+	Calculation myCalculation = new Calculation ();
+	myCalculation.addition(56, 100);  
+
+	}
+
+}

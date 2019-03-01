@@ -1,0 +1,11 @@
+package ReviewofProject23456;
+
+public class ForLoopPractice {
+
+	public static void main(String[] args) {
+	for (int x = 1000; x>2; x=x-2) {
+	System.out.println(x);
+	}
+	}
+
+}

@@ -1,0 +1,41 @@
+package ReviewofProject23456;
+
+public class ReviewOFProject3 {
+
+public int myAge;
+public String myneighborHoodname; 
+public char firstLetterOfTheBrough;
+public long populationOfTheBrough;
+
+
+public ReviewOFProject3(int myAge) {
+	this.myAge = myAge;
+	System.out.print(myAge);
+}
+
+public ReviewOFProject3(String myNeighborH) {
+	this.myneighborHoodname = myNeighborH; 
+	System.out.print(myneighborHoodname);
+	}
+
+public ReviewOFProject3(char firstLetter) {
+	this.firstLetterOfTheBrough = firstLetter;
+	System.out.print(firstLetterOfTheBrough);
+}
+
+public ReviewOFProject3(long populationOfThe) {
+	this.populationOfTheBrough = populationOfThe;
+	System.out.print(populationOfTheBrough);
+}
+
+}
+
+
+
+
+
+
+
+
+
+}

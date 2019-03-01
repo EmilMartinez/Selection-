@@ -1,0 +1,39 @@
+package ReviewofProject23456;
+
+public class TheComputerIneed extends ComputerIwant implements Computers{
+
+public void Price() {
+	System.out.println("I want to pay $1600 for the laptop.");
+}
+	
+public void WhenIWantToBuyit() {
+	System.out.println("I want to buy the laptop by the end of Feburary.");
+}
+
+public void shape() {
+	System.out.println("The shape of this computer is Retangular");
+}
+
+public void keyBroad() {
+System.out.println("The keybroads digits are soft and easy to write with.");
+}
+
+public void screenSize() {
+System.out.println("The screen size is 15' wide and 6' high.");
+}
+
+public void computerBrand() {
+	System.out.println("The computer brand is Apple.");
+}
+
+public void Memory() {
+	System.out.println("The ram must be 16gb and the hard drive must have 256gb.");
+	}
+
+
+	
+	
+	
+	
+	
+}

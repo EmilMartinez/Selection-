@@ -1,0 +1,13 @@
+package Inheritance;
+
+public class Dauther extends Mother {
+
+public void Height( ) {
+	System.out.println("She is 2ft taller then her mother");
+}
+
+public void Weight() {
+	System.out.println("She weighs 145lb");
+}
+
+}

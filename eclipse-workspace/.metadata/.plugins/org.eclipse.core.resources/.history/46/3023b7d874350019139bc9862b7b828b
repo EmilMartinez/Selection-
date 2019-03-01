@@ -1,0 +1,18 @@
+package ReviewofProject23456;
+
+import java.util.Scanner;
+
+public class ScannerPractice {
+
+	public static void main(String[] args) {
+		System.out.println("How is the weather outside?");
+		Scanner sc = new Scanner(System.in);
+		String input1 = sc.next();
+		int weather = sc.nextInt();
+		sc.close();
+		String total = input1 + input2;
+		System.out.println("It is:" +total);
+		
+}
+}
+

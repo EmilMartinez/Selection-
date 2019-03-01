@@ -1,0 +1,34 @@
+package ReviewofProject23456;
+
+public abstract class ComputerIwant implements Computers {
+
+	public void shape() {
+	System.out.println("The shape is of the Mac laptop that I want is rectangular.");
+	}
+	
+	public void keyBroad ()  {
+	System.out.println("The keybroad of the mac laptop that I want is softer then my window's pc");
+	}
+	
+	public void screenSize() {
+    System.out.println("The screen size on the laptop that I want is 15' inches wide");		
+	}
+	
+	public void computerColor() {
+	System.out.println("The color of the MacBook that I desire is gloosy white");
+	}
+	
+	public void ramMemoryCapcity() {
+	System.out.println("The mac pro has ram has 16 gb worth of storage capcity");
+	}
+	
+	public void computerBrand() {
+	System.out.println("My mac book that I want is the top of the line Apple computer.");
+	}
+	
+	public void mouseType() {
+	System.out.println("The mouse pad is a touch pad located on the center of the computer");
+		
+	}
+	
+}

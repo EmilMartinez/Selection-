@@ -1,0 +1,18 @@
+package ReviewofProject23456;
+
+import java.util.Scanner;
+
+public class Scanner123 {
+
+	public static void main(String[] args) {
+System.out.println("Who do you look up to?");
+Scanner sc = new Scanner(System.in);
+String person = sc.next();
+String inspiration = sc.next();
+String who = sc.next();
+System.out.println("I look up to:" +person inspiration +who);
+sc.close();
+
+	}
+
+}

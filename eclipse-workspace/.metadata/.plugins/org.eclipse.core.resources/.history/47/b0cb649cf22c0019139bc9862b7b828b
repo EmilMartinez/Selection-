@@ -1,0 +1,22 @@
+package Abstraction;
+
+public abstract class Buildingtype {
+  
+	
+	public void Shape() {
+	System.out.println("Glass Tower");
+	}
+	
+	
+	public void windows() {
+	System.out.println("10ft windows with see through led");	
+	}
+	
+	public void type() {
+	System.out.println("Glass");
+	}
+	
+	public void materials() {
+	System.out.println("Steel, Concrete, and Glass");
+	}
+}

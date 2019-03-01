@@ -1,0 +1,17 @@
+package ReviewofProject23456;
+
+public class IfElsePractice {
+
+	public static void main(String[] args) {
+		float num1 = 123;
+		float num2 = 175;
+if ((num1 < num2) && (num2 > 86));
+System.out.println(num2+"Is better"+num1);
+	}else if ((num2 <= num1) || (num2 >num1)); {
+System.out.println(num1+ "Is greater than"+num2);
+}
+	}
+	}
+
+
+		

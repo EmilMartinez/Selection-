@@ -1,0 +1,17 @@
+package ReviewofProject23456;
+
+import java.util.Scanner;
+
+public class ScannerPractice {
+
+	public static void main(String[] args) {
+		System.out.println("Who is The 44th President of the United States?");
+		Scanner sc = new Scanner(System.in);
+		String input1 = sc.next();
+		String input2 = sc.next();
+		System.out.println("The 44th President of the United States of America is:" +input1 +input2);
+		sc.close();
+	}
+}
+		
+

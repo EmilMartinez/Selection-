@@ -1,0 +1,17 @@
+package ReviewofProject23456;
+
+import java.util.Scanner;
+
+public class Scanner123 {
+
+	public static void main(String[] args) {
+System.out.println("What is the weather like outside?");
+Scanner sc = new Scanner(System.in);
+String results = sc.nextLine();
+String is = sc.nextLine();
+String total = results + is;// If there more then two of the same variables I must have a "total".  
+System.out.print("The weather is"+total);
+sc.close();	
+	}
+
+}

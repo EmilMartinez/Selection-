@@ -1,0 +1,26 @@
+package ReviewofProject23456;
+
+public class Nestedwork {
+
+public String VactionLocation;
+public int VactionDays;
+public double MilesAwayFromHome;
+public Boolean IsitDominicanRepublic;
+
+public Nestedwork(String vactionLocation);
+this.
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+}

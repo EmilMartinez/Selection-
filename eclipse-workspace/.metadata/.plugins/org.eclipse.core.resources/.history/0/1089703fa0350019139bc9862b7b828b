@@ -1,0 +1,18 @@
+package ReviewofProject23456;
+
+import java.util.Scanner;
+
+public class ScannerPractice {
+
+	public static void main(String[] args) {
+		System.out.println("How many kids are there in School?");
+		Scanner sc = new Scanner(System.in);
+		int kids = sc.nextInt();
+		System.out.println("The are:"+kids);
+		System.out.println("in the school");
+		sc.close();
+		
+		
+		
+}
+}

@@ -1,0 +1,24 @@
+package ReviewofProject23456;
+
+public class Father {
+
+	public void Height() {
+	System.out.println("I am 6ft tall.");
+		}
+	
+	public void Hair() {
+	System.out.println("My hair color is Black.");
+	
+}
+	
+	public void hands() {
+	System.out.println("My hands are larger than normal.");
+	}
+	
+	public void eyes() {
+	System.out.println("My eyes are blue");	
+		
+		}
+
+	}
+}

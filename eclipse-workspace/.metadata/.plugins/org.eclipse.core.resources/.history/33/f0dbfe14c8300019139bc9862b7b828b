@@ -1,0 +1,17 @@
+package ReviewofProject23456;
+
+public class NestedWorkstest {
+
+	public static void main(String[] args, String Attributes, String Laptop) {
+	NestedWorks school = new NestedWorks();
+	school.Homework(10);
+	school.learningMaterials(Laptop);
+	school.Teacher(Attributes);
+	school.Subjects(s)
+	
+	
+	
+
+	}
+
+}

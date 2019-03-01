@@ -1,0 +1,38 @@
+package Mylife;
+
+public class Emillife21
+{
+
+   String name;
+   String lastname;
+   double weight;
+   int age;
+   
+   public  Emillife21 () {}
+   
+   public Emillife21(String name) {
+	   this.name = name;
+	   System.out.println("My name is:");
+   }
+   
+   public Emillife21 (String lastname, String name  ) {
+	   this.lastname = lastname;
+	   System.out.println(" My lastname is:");
+   }
+   
+   public Emillife21 (double weight) {
+	   this.weight = weight; 
+	   System.out.println("My weight is:");
+   }
+   
+   public int Emillife2 (int a) {
+	   this.age = a; 
+	   System.out.println("I am: " +a);
+	   return a;
+	   }
+}
+
+
+
+
+   

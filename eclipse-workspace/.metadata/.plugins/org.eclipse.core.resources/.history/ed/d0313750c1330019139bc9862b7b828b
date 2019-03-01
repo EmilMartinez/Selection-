@@ -1,0 +1,45 @@
+package ReviewofProject23456;
+
+public class TheComputerIneed extends ComputerIwant implements Computers{
+
+	public void Screen() {
+		System.out.println("The screen is 15' wide.");
+	}
+	
+	public void ProcessingChip() {
+	System.out.println("The Processing chip must be at least an Intel I7 8th generation");
+		}
+	
+    public void Price() {
+    	System.out.println("It should cost no more the $2200.");
+    }
+
+    public void KeyPad() {
+		System.out.println("The Keypad must be soft.");
+	}
+	
+	public void RamMemory() {
+		System.out.println("The Ram memory must have at least 16gb.");
+	}
+	
+	public void HardDrive() {
+		System.out.println("The hard drive must have at least 256gb.");
+	}
+	
+	public void TouchPad() {
+		System.out.println("The touch pad must senative to the touch.");
+	}
+	
+	public void Weight() {
+		System.out.println("It must weight no more than 5lbs.");
+	}
+	
+	public void Brand() {
+		System.out.println("I want an Apple Mac Probook.");
+	}
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,30 @@
+
+public class MyDreamCar {
+
+public String carName;
+public float carWeight;
+public int carYear;
+public double carCost;
+  
+public MyDreamCar (String carna) {
+	this.carName = carna;
+	System.out.println(carna);
+}
+
+public MyDreamCar (float carwei) {
+	this.carWeight = carwei;
+	System.out.println(carwei);
+}
+
+public MyDreamCar (int carye) {
+	this.carYear = carye;
+	System.out.println(carye);
+}
+
+public MyDreamCar (double carco) {
+	this.carCost = carco;
+	System.out.println(carco);
+}
+
+
+}

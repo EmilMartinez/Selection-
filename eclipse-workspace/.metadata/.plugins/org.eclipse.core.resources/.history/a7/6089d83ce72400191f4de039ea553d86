@@ -1,0 +1,18 @@
+
+public class javaworktest {
+
+	
+	
+	public static void main(String[] args) {
+		Emil mvp = new Emil ();
+		mvp.addition(112, 160); 
+		
+		
+				
+				
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,23 @@
+package Mylife;
+
+public class Runmylife {
+
+	public static void main(String[] args) {
+		Emillife2 people = new Emillife2 ();
+		people.age = 24;
+	}
+		
+		
+		
+		
+		
+		
+	    
+		
+		
+	
+	}
+	
+	
+
+}

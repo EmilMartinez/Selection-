@@ -1,0 +1,15 @@
+package ReviewofProject23456;
+
+public interface Computers {
+
+public void KeyBroad();
+public void ScreenSize();
+public void Ram();
+public void HardDrive();
+public void Weight();
+public void Processor();
+
+
+	
+}
+}

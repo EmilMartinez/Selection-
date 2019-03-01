@@ -1,0 +1,65 @@
+package ReviewofProject23456;
+
+public class NestedWork {
+
+public String VactionLocation;
+public int VactionDays;
+public double MilesAwayFromHome;
+public Boolean IsitDominicanRepublic;
+
+
+
+public NestedWork(String vactionLocation) {
+this.VactionLocation = vactionLocation;
+System.out.print(VactionLocation);
+}
+
+public NestedWork(int vactionDays) {
+	this.VactionDays = vactionDays;
+	System.out.print(VactionDays);
+}
+
+public NestedWork(double milesAwayFromHome) {
+	this.MilesAwayFromHome = milesAwayFromHome;
+	System.out.print(MilesAwayFromHome);
+}
+
+public NestedWork(Boolean isItDominicanRepublic) {
+	this.IsitDominicanRepublic = isItDominicanRepublic;
+	System.out.print(IsitDominicanRepublic);
+}
+
+private class Purchases {
+private short Amount;
+private long SavingsLeft;
+public double MilesAwayFromHome;
+
+public void PurchasesOftheday() {
+	System.out.print("I made 10 purchases today.");
+}
+
+public Purchases (long savingsLeft) {
+	this.SavingsLeft = savingsLeft;
+	System.out.print(SavingsLeft);
+}
+
+public Purchases (double milesToTheStore) {
+	this.MilesAwayFromHome = milesToTheStore;
+System.out.print(MilesAwayFromHome);	
+}
+	
+}
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+}
